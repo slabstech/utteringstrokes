@@ -1,5 +1,5 @@
 ---
-title: "Flying Bird"
+title: "Uttering Strokes"
 categories:
   - sketch
 tags:
