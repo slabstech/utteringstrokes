@@ -1,7 +1,0 @@
----
-title: "Flying Bird"
-categories:
-  - sketch
-tags:
-  - sketch
----
