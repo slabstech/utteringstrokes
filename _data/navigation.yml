@@ -6,5 +6,7 @@ main:
   url: /sketch/
 - title: "Rangoli"
   url: /rangoli/
+- title: "Painting"
+  url: /painting/  
 - title: "Search"
   url: /search/
