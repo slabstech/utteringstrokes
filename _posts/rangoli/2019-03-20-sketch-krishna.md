@@ -1,9 +1,9 @@
 ---
 title: "Rangoli : Krishna"
 categories:
-  - sketch
+  - rangoli
 tags:
-  - sketch
+  - rangoli
 ---
 
 <img src="{{site.baseurl}}/assets/art/rangoli/krishna.png">
