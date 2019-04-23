@@ -7,6 +7,6 @@ main:
 - title: "Rangoli"
   url: /rangoli/
 - title: "Painting"
-  url: /painting/  
-- title: "Search"
-  url: /search/
+  url: /painting/
+#- title: "Search"
+#  url: /search/
