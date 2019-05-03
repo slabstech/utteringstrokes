@@ -1,5 +1,5 @@
 ---
-title: "zeitgeist 2018"
+title: "choice and trees"
 categories:
   - sketch
 tags:
